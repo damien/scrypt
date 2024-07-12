@@ -17,7 +17,7 @@ Gem::Specification.new do |s|
   EOF
 
   s.add_development_dependency "rspec"
-  s.add_development_dependency "rake", "~> 0.9.2"
+  s.add_development_dependency "rake", "~> 12.3.3"
   s.add_development_dependency "awesome_print"
 
   s.rubyforge_project = "scrypt"
